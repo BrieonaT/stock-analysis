@@ -2,8 +2,8 @@ The original task of this assignment was to help a man named Steve's parents dec
 
 After building out the code from it's original state into the refactored code, we were able to get results on not only the stock analysis, but also how the refactored code faired against the original code in terms of which was more condusive to get the stock results. The actual stock results showed a major dip in most of the stocks' yearly returns. This is evident in the data exhibited below, showing that most stocks had a negative return during 2018, except for ENPH and RUN, who remained in positive returns between the years. A further look at this shows that ENPH went down in yearly returns (From 129.5% in 2017 to 81.9% in 2018), but RUN actually went up by a considerable amount (from 5.5% in 2017 to 84.0% in 2019).
 
-![2017 Refactored Code](https://github.com/BrieonaT/stock-analysis/blob/main/VBA_Challenge_2017.png.png)
-![2018 Refactored Code](https://github.com/BrieonaT/stock-analysis/blob/main/VBA_Challenge_2018.png.png)
+![2017 Refactored Code](https://github.com/BrieonaT/stock-analysis/blob/main/VBA_Challenge_2017.png)
+![2018 Refactored Code](https://github.com/BrieonaT/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 As for how the refactored code held against the original, it's quite evident that the refactored code significantly improves upon the original. This is shown comparing the above image featuring the run times of the refactored code against the images below of the original code. The refactored code for both 2017 and 2018 took less than a second to show the selected data, whereas the old code took over a second to show the selected data. In addition, the refactored code could be used for larger sets of data and take less time to enact versuses the original code.
 
